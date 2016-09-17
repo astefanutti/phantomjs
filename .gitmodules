@@ -1,7 +1,7 @@
 [submodule "qtbase"]
 	path = src/qt/qtbase
-	url = https://github.com/Vitallium/qtbase.git
-	branch = phantomjs
+	url = https://github.com/astefanutti/qtbase.git
+	branch = decktape
 [submodule "qtwebkit"]
 	path = src/qt/qtwebkit
 	url = https://github.com/astefanutti/qtwebkit.git
